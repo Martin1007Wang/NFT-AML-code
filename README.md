@@ -25,8 +25,6 @@ git clone https://github.com/Martin1007Wang/NFT-AML.git cd NFT-AML
 
 2. Install the required dependencies:
 
-3. ...
-
 ### Training
 
 1. Configure the training settings in the configuration file `config.json`.
